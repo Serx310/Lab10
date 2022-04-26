@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab10</string>
+    <string name="left">Left</string>
+    <string name="middle">Middle</string>
+    <string name="right">Right</string>
+    <string name="speaker_icon">Speaker icon</string>
+    <string name="ball">Eight ball picture</string>
+    <string name="sensor_value">X:%1$f Y:%2$f Z:%3$f</string>
+</resources>
